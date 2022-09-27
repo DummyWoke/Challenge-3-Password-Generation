@@ -18,7 +18,8 @@ Example on how to use Password Generator.
 
 Link to the github repository aswell as finished site link.
 
-
+https://dummywoke.github.io/Challenge-3-Password-Generation/
+https://github.com/DummyWoke/Challenge-3-Password-Generation
 
 ## License
 
