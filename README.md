@@ -12,7 +12,7 @@ N/A
 
 Example on how to use Password Generator.
 
-![alt text](assets/Example.jpg)
+![alt text](Assets/Example.jpg)
 
 ## Credits
 
