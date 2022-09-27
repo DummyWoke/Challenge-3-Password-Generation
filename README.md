@@ -12,13 +12,14 @@ N/A
 
 Example on how to use Password Generator.
 
-![alt text](assets/Example.jpg)
+![alt text](Assets/Example.jpg)
 
 ## Credits
 
 Link to the github repository aswell as finished site link.
 
-
+https://dummywoke.github.io/Challenge-3-Password-Generation/
+https://github.com/DummyWoke/Challenge-3-Password-Generation
 
 ## License
 
